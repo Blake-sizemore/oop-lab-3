@@ -1,0 +1,10 @@
+#canvasFrame {
+    position: relative;
+    
+}
+
+.triangle {
+    border: 0px solid transparent;
+    border-bottom-color: red;
+    position:absolute;
+}
